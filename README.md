@@ -1,6 +1,5 @@
 # bd_aula_05
 
-Exercícios
 Exercício 1 (Inserção e Restrições): Escreva o comando SQL para inserir um novo fornecedor chamado 'Suprimentos Globais', com o telefone '(11) 91111-2222' e endereço 'Av. das Nações, 500 - São Paulo, SP'. Em seguida, responda: O que acontecerá se você tentar executar esse mesmo comando uma segunda vez? Por quê?
 
 INSERT INTO Fornecedor (nome, telefone, endereco)
